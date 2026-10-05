@@ -1,3 +1,4 @@
+( Still fixing ai ussage)
 import random
 
 while True:
