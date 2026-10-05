@@ -1,4 +1,4 @@
-( Still fixing ai ussage)
+( Ai ussage fixed)( follow along in class)
 import random
 
 while True:
